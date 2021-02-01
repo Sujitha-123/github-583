@@ -20,3 +20,4 @@ git project starts feb1
 -git add remote remote name"repo link"
 ## remote status
 -git remote -v
+## cloning existing
