@@ -22,3 +22,7 @@ git project starts feb1
 -git remote -v
 ## cloning existing repository
 git clone "repo link" foldername
+## undoing changes
+git restore file name (uncommitted changes")
+git revert id (commited changes)
+git reset id (resetting commited)
